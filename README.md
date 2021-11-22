@@ -20,7 +20,7 @@ employee card reader
 | data | type |
 | ------ | ------ |
 | INPUT | data form |
-| OUTPUT | room reservation message and database entry |
+| OUTPUT | displays operating hours |
 
 ## Main functionalities
 

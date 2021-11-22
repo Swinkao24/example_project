@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# Employee card reader
 
 ## _contractor: Karol Świniarski_
 ## _principal: Michał Czerwiński_
@@ -6,12 +6,14 @@
 
 | dossier version | date |
 | ------ | ------ |
-| 1.0 | 17.11.2021 |
-| 1.1 | 17.11.2021 |
+| 1.0 | 22.11.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
+The project is for a system that allows an employee's hours to be recorded while he or she applies a card to a reader.
+employee card reader
+
 
 ## Data structure
 
